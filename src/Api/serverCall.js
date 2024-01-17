@@ -1,7 +1,7 @@
 import { getCookie } from "./cookieHelper"
 
 export const address = "NumiAttahKb.pythonanywhere.com"
-export const protocol = "http" 
+export const protocol = "https" 
 
 
 const get_url = (path, urlParams) => {
